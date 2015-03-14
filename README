@@ -1,0 +1,9 @@
+CSE 2421
+lab6
+Name: Chuhan Feng
+Time taken: 10 hr
+Problems encountered:
+I encountered so many problems in this lab. A typical one of them is the
+use of mul and div. In the beginning, I wrongly used them in the way of using
+add and sub, and I keep getting error until I found where the problem is.
+Another one is that I met some problem with stack, but I finally fixed it.
